@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Hi Dhanvantari Family Members</h1>
     <h1>Dhanvantari Registration for AWS & DevOps Learning</h1>
+    <h1>All the best Guys</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
